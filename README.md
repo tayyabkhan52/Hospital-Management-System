@@ -5,7 +5,8 @@ Here's a README based on the project details you provided:
 # Hospital Management System
 
 This project is a **Hospital Management System** developed as part of the **Database Systems** course. It is implemented using **C#** on **Visual Studio** with the **.NET framework**, utilizing an **Oracle database** for backend management. The system provides functionality for managing hospital staff, patients, appointments, and support tasks in an organized and efficient manner.
-![image](https://github.com/user-attachments/assets/9a9a4557-58df-452e-98f1-b922b97e51ee)
+![Uploading image.png…]()
+
 
 ## Features
 
